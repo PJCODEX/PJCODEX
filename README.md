@@ -68,6 +68,12 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 
 ---
 
+### 🏆 GitHub Trophies  
+
+![Puja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+
+---
+
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/PJCODEX/PJCODEX/blob/output/github-contribution-grid-snake.svg)
