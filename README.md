@@ -42,12 +42,18 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 
 ---
 
-### 🎯 Current Goals
+## 🎯 Current Goals
+📦 Build and deploy real-world full-stack applications
 
-- 📦 Build and deploy **real-world full-stack applications**
-- ☁️ Learn cloud and DevOps basics
-- 🧩 Participate in **hackathons** & contribute to **open source**
-- 💼 Land an impactful **internship or MNC opportunity**
+🔗 Master API development and integration (REST, GraphQL, authentication, error handling)
+
+🗄️ Design and manage databases efficiently:(MySQL,MongoDB)
+
+🧩 Participate in hackathons & contribute to open source projects
+
+💻 Solve 200+ coding challenges on LeetCode/GFG to strengthen problem-solving and data structures & algorithms skills
+
+💼 Land an impactful internship or MNC opportunity with a focus on software engineering roles
 
 ---
 
