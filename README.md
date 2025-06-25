@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Puja Kumari</h1>
 
-<!--
-**PJCODEX/PJCODEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz<br>
+  💡 Passionate about Full-Stack Web Development, Scalable Systems, and Continuous Learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I'm a second-year Computer Science student with a deep interest in **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
+
+- 🚀 Currently interning as a Full-Stack Developer @ **Cognifyz Technologies** & **InternPe**
+- 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
+- 🛠️ Actively solving **DSA problems in Java**
+- 🎨 Art & creativity lover – bringing an aesthetic eye to tech
+
+---
+
+### ⚒️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,java,git,github,vscode" />
+</p>
+
+---
+
+### 💼 Experience
+
+- 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - Present)*
+- 🔹 **Web Development Intern** – InternPe *(June 2025 - Present)*
+
+---
+
+### 📜 Certifications & Achievements
+
+- 🧠 **DSA with Java – Apna College**
+- 🤖 Workshop on **Artificial Intelligence** & **Robotics**
+- 🖌️ 1st Position in **Painting Competition** – Creativity meets logic!
+- 🏅 NCECCI-2025 Certification
+
+---
+
+### 🎯 Current Goals
+
+- 📦 Build and deploy **real-world full-stack applications**
+- ☁️ Learn cloud and DevOps basics
+- 🧩 Participate in **hackathons** & contribute to **open source**
+- 💼 Land an impactful **internship or MNC opportunity**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PJCODEX&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PJCODEX&theme=radical" width="47%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJCODEX&layout=compact&theme=radical" width="47%" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/PJCODEX/PJCODEX/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/puja-kumari01b">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:pujakumari91221180@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PJCODEX">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PJCODEX&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>“Code with purpose. Build with passion.”</i></p>
