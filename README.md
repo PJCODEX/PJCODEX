@@ -76,7 +76,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 ---
 ### Contibution Graph
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PJCODEX&theme=github-compact&area=true&bg_color=ffffff&color=000000)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PJCODEX&theme=github-compact&area=true&bg_color=ffffff&color=000000)
 
 ---
 
