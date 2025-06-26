@@ -71,7 +71,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 
 ### 🏆 GitHub Trophies  
 
-![Puja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+![Puja's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PJCODEX&theme=radical)
 
 ---
 ### Contibution Graph
