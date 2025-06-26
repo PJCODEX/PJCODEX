@@ -76,7 +76,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 ---
 ### Contibution Graph
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pujakumari&theme=gruvbox)](https://github.com/pujakumari)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PJCODEX&theme=gruvbox)](https://github.com/PJCODEX)
 
 ---
 
