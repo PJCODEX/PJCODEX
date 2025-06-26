@@ -15,6 +15,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 - 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
 - 🛠️ Actively solving **DSA problems in Java**
 - 🎨 Art & creativity lover – bringing an aesthetic eye to tech
+- 📧 Reach me at: pujakumari91221180@gmail.com
 
 ---
 
