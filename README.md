@@ -11,7 +11,7 @@
 
 I'm a second-year Computer Science student with a deep interest in **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
 
-- 🚀 Currently interning as a Full-Stack Developer @ **Cognifyz Technologies** & **InternPe**
+- 🚀 Currently interning as a Full-Stack Developer @ **Cognifyz Technologies** 
 - 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
 - 🛠️ Actively solving **DSA problems in Java**
 - 🎨 Art & creativity lover – bringing an aesthetic eye to tech
@@ -30,7 +30,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 ### 💼 Experience
 
 - 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - Present)*
-- 🔹 **Web Development Intern** – InternPe *(June 2025 - Present)*
+- 🔹 **Web Development Intern** – InternPe *(June 2025 )*
 
 ---
 
