@@ -2,7 +2,7 @@
 
 <p align="center">
   🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz<br>
-  💡 Passionate about Full-Stack Web Development, Scalable Systems, and Continuous Learning
+  💡 Passionate about Web Development, Scalable Systems, and Continuous Learning
 </p>
 
 ---
