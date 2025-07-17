@@ -29,7 +29,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 
 ### 💼 Experience
 
-- 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - Present)*
+- 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - July 2025)*
 - 🔹 **Web Development Intern** – InternPe *(June 2025 )*
 
 ---
