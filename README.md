@@ -38,7 +38,7 @@ I'm a second-year Computer Science student with a deep interest in **web develop
 
 - 🧠 **DSA with Java – Apna College**
 - 🤖 Workshop on **Artificial Intelligence** & **Robotics**
-- 🖌️ 1st Position in **Painting Competition** – Creativity meets logic!
+- 🖌️ 1st Position in **Painting Competition** – Artistic Touch to Tech!
 - 🏅 NCECCI-2025 Certification
 
 ---
