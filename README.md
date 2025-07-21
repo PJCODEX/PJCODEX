@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm a second-year Computer Science student with a strong  focous on **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
+I'm a second-year Computer Science student with a strong  focus on **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
 
 - 🚀 Full-Stack Developer Intern @ **Cognifyz Technologies** 
 - 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
