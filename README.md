@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Puja Kumari</h1>
 
 <p align="center">
-  🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz<br>
+  🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅| <br>         
   💡 Passionate about Web Development, Scalable Systems, and Continuous Learning
 </p>
 
