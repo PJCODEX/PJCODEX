@@ -30,6 +30,7 @@ I'm a second-year Computer Science student with a strong  focus on **web develop
 
 ### 💼 Experience
 
+- 🔹 **Tech-Contributor** – Gssoc'25 (July 2025 Present)
 - 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - July 2025)*
 - 🔹 **Web Development Intern** – InternPe *(June 2025 )*
 
