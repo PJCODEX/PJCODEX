@@ -11,7 +11,8 @@
 
 I'm a second-year Computer Science student with a strong  focus on **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
 
-- 🚀 Full-Stack Developer Intern @ **Cognifyz Technologies** 
+- 🚀 Full-Stack Developer Intern @ **Cognifyz Technologies**
+- 🏅  Tech-Contributor @ **GssoC-2025**
 - 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
 - 🛠️ Actively solving **DSA problems in Java**
 - 🎨 Art & creativity lover – bringing an aesthetic eye to tech
