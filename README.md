@@ -3,8 +3,8 @@
 <p align="center">
   🌟 Aspiring AI Engineer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 AI & Data Analytics Intern @ Edunet Foundation | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>   
   
-  💡 Passionate about Ai Integrated Full Stack Development, Scalable Systems, and Continuous Learning
-</p>
+   💡 Passionate about Ai Integrated Full Stack Development, Scalable Systems, and Continuous Learning
+  </p>
 
 ---
 
