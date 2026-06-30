@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi there, I'm Puja Kumari</h1>
 
 <p align="center">
-  🌟 Aspiring AI Engineer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 AI & Data Analytics Intern @ Edunet Foundation | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>         
+  🌟 Aspiring AI Engineer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 AI & Data Analytics Intern @ Edunet Foundation | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>   
+  
   💡 Passionate about Ai Integrated Full Stack Development, Scalable Systems, and Continuous Learning
 </p>
 
@@ -44,6 +45,7 @@ I'm a third-year Computer Science student with a strong  focus on **software dev
 - 🤖 Workshop on **Artificial Intelligence** & **Robotics**
 - 🖌️ 1st Position in **Painting Competition** – Artistic Touch to Tech!
 - 🏅 NCECCI-2025 Certification
+- 🏅 **NPTEL Certification - **Topper(1%) in Education for Sustainable Development** 
 
 ---
 
