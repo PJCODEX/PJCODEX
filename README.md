@@ -1,20 +1,22 @@
 <h1 align="center">👋 Hi there, I'm Puja Kumari</h1>
 
 <p align="center">
-  🌟 Aspiring MERN Stack Developer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>         
-  💡 Passionate about Web Development, Scalable Systems, and Continuous Learning
+  🌟 Aspiring AI Engineer | 🎓 B.Tech CSE @ SPNREC Araria | 🔧 AI & Data Analytics Intern @ Edunet Foundation | 🔧 FSD Intern @ Cognifyz | Tech-Contributor(GSSoC)-2025 🏅 | <br>         
+  💡 Passionate about Ai Integrated Full Stack Development, Scalable Systems, and Continuous Learning
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a second-year Computer Science student with a strong  focus on **web development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
+I'm a third-year Computer Science student with a strong  focus on **software development**, **backend systems**, and **data structures & algorithms**. My journey started with creative problem-solving and a passion for crafting beautiful, functional digital experiences.
 
 - 🚀 Full-Stack Developer Intern @ **Cognifyz Technologies**
-- 🏅  Tech-Contributor @ **GssoC-2025**
+- 🚀 AI & Data Analytics Intern @ **Edunet Foundation**
+- 🏅 Tech-Contributor @ **GssoC-2025**
+- 🛠️ Software Development Bootcamp @ **Apna College** 
 - 📚 Learning & building with **Node.js**, **Express**, **React**, **MongoDB**, and **SQL**
-- 🛠️ Actively solving **DSA problems in Java**
+- 🛠️ Actively solving **DSA problems on leetcode**
 - 🎨 Art & creativity lover – bringing an aesthetic eye to tech
 - 📧 Reach me at: pujakumari91221180@gmail.com
 
@@ -32,7 +34,7 @@ I'm a second-year Computer Science student with a strong  focus on **web develop
 
 - 🔹 **Tech-Contributor** – Gssoc'25 (July 2025 Present)
 - 🔹 **Full Stack Developer Intern** – Cognifyz Technologies *(June 2025 - July 2025)*
-- 🔹 **Web Development Intern** – InternPe *(June 2025 )*
+- 🔹 **AI & Data Analytics Intern** – Edunet Foundation *(August 2025 )*
 
 ---
 
@@ -46,7 +48,7 @@ I'm a second-year Computer Science student with a strong  focus on **web develop
 ---
 
 ## 🎯 Current Goals
-📦 Build and deploy real-world full-stack applications
+📦 Build and deploy real-world full-stack applications with AI.
 
 🔗 Master API development and integration (REST, GraphQL, authentication, error handling)
 
@@ -56,7 +58,7 @@ I'm a second-year Computer Science student with a strong  focus on **web develop
 
 💻 Solve 200+ coding challenges on LeetCode/GFG to strengthen problem-solving and data structures & algorithms skills
 
-💼 Land an impactful internship or MNC opportunity with a focus on software engineering roles
+💼 Land an impactful internship or MNC opportunity with a focus on AI Engineering roles
 
 ---
 
