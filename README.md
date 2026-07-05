@@ -107,6 +107,8 @@ I'm a third-year Computer Science student with a strong  focus on **software dev
   <a href="https://github.com/PJCODEX">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
   </a>
+  <a href="https://https://discord.com/pujakumari0489">
+    <img src="https://img.shields.io/badge/-Discord-pink?style=flat-square&logo=Discord" />
 </p>
 
 ---
